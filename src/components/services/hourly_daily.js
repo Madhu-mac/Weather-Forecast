@@ -23,7 +23,7 @@ const formatForecastWeather = async (lat, lon) => {
       icon: d.weather[0].icon,
     };
   });
-  console.log(daily)
+ 
 
   const daily = list
     // eslint-disable-next-line array-callback-return

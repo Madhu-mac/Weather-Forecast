@@ -12,14 +12,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-.main-card {
-  display: flex; flex-direction: column;
-  background-size: cover;
-  height: 100vh;
-}
-.weather-card {
-  padding-bottom: 50px;
-}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
